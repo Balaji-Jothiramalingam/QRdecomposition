@@ -58,7 +58,7 @@ QR_Decomposition(a)
 ```
 
 ## Output
-```
+
 ![m8](https://github.com/Balaji-Jothiramalingam/QRdecomposition/assets/114234865/93f1218c-ad86-4398-94d8-fdacd99f8f89)
 
 ```
